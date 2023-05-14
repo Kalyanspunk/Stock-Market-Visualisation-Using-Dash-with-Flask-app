@@ -1,5 +1,5 @@
 
-# Stock Market Visualisation Using Dash with Flask app
+# Stock Market Visualisation Using Dash 
 
 You will be creating a single-page web application using Dash (a python framework) and
 some machine learning models which will show company information (logo, registered
